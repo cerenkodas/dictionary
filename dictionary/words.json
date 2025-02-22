@@ -1,0 +1,51 @@
+[
+    {
+        "Türkçe": "ağaç",
+        "İngilizce": "tree",
+        "Fransızca": "arbre",
+        "Almanca":"A"
+       
+    },
+    {
+        "Türkçe": "ev",
+        "İngilizce": "house",
+        "Fransızca": "maison",
+        "Almanca":"B"
+    },
+    {
+        "Türkçe": "ekmek",
+        "İngilizce": "bread",
+        "Fransızca": "pain",
+        "Almanca":"C"
+    },
+    {
+        "Türkçe": "aslan",
+        "İngilizce": "lion",
+        "Fransızca": "lion",
+        "Almanca":"D"
+    },
+    {
+        "Türkçe": "deniz",
+        "İngilizce": "sea",
+        "Fransızca": "mer",
+        "Almanca":"E"
+    },
+    {
+        "Türkçe": "erkek",
+        "İngilizce": "man",
+        "Fransızca": "mâle",
+        "Almanca":"F"
+    },
+    {
+        "Türkçe": "kadın",
+        "İngilizce": "woman",
+        "Fransızca": "femme",
+        "Almanca":"G"
+    },
+    {
+        "Türkçe": "çocuk",
+        "İngilizce": "child",
+        "Fransızca": "enfant",
+        "Almanca":"H"
+    }
+]
